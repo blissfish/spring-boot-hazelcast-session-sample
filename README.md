@@ -2,6 +2,7 @@
 ## Build & run
 ### Open shell
 `mvn clean package`
+
 `mvn spring-boot:run`
 
 server.port=0 application.properties file will assign HTTP port dynamically
