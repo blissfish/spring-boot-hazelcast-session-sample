@@ -1,6 +1,6 @@
 # spring-boot-hazelcast-session-sample
 ## Build & run
-### Open shell
+### Open 1st shell
 `mvn clean package`
 
 `mvn spring-boot:run`
