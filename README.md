@@ -1,6 +1,6 @@
 # spring-boot-hazelcast-session-sample
 ## Build & run
-* Open shell
+* `Open shell`
 * mvn clean package
 * mvn spring-boot:run
 
@@ -14,5 +14,5 @@ after started successfully search for port at the end of log output on std out
 after successful start of 2nd shell search for port at the end of log output on std out
 
 ## Open browser with two tabs each pointing to 
-* http://localhost:<port-of-1st-instance>
-* http://localhost:<port-of-2nd-instance>
+* http://localhost:port-of-1st-instance
+* http://localhost:port-of-2nd-instance
